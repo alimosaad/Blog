@@ -1,0 +1,4 @@
+[submodule "simpleBlog/public"]
+	path = simpleBlog/public
+	url = https://github.com/alimosaad/alimosaad.github.io.git
+	branch = main

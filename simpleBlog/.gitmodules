@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/alimosaad/alimosaad.github.io.git
+	branch = main
