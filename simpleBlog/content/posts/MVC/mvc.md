@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: 'Spring MVC'
-date: '2025-07-28T19:17:27+03:00'
+date: '2025-07-30T09:58:07+03:00'
 images: []
 ---
 
@@ -21,7 +21,7 @@ MVC follows model-view-controller, it separates app into three component `-->` m
 
 ## How does Spring MVC work? 
 ### `MVC Archeticture`
-![archeticture](img/mvcArch.png)
+![archeticture](img/Arch.png)
 1. when http request is made to spring MVC App  go to dispatcher servlet .
 2. Dispatcher servlet consult the handler mapping .
 3. Handler mapping determine appropriate controller for request.
